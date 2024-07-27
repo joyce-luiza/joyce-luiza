@@ -3,7 +3,7 @@ Parece que você encontrou meu perfil no GitHub...
 
 ## O que eu faço da vida :sunglasses:
 
-Sou uma Product Designer e estou cursando Análise e Desenvolvimento de Sistemas na FATEC. A princípio, eu queria ser uma desenvolvedora, e fiz estágio por um tempo nessa àrea, mas acabei caindo nas garras do UX Design e troquei de área ainda durante o estágio. Apesar de não ser mais uma dev formalmente, eu ainda brinco com alguns projetinhos no tempo livre. 
+Sou uma Product Designer formada em Análise e Desenvolvimento de Sistemas pela FATEC Mogi das Cruzes. A princípio, eu queria ser uma desenvolvedora, e fiz estágio por um tempo nessa àrea, mas acabei caindo nas garras do UX Design e troquei de área ainda durante o estágio. Apesar de não ser mais uma dev formalmente, eu ainda brinco com alguns projetinhos no tempo livre. 
 
 ## Ferramentas e Tecnologias :computer:
 
